@@ -67,7 +67,6 @@ python app.py
   ```
   
 - **Pillow**: Python Imaging Library adds image processing capabilities to your Python interpreter.
-  - Version 8.2.0
   - Installation: 
   ```python
   pip install pillow
@@ -76,7 +75,7 @@ python app.py
 - **requests**: HTTP library for Python, allowing you to send HTTP requests easily.
   - Installation: 
   ```
-  pip install --user requests==2.25.1
+  pip install --user requests
   ```
   
 - **Werkzeug**: A comprehensive WSGI web application library for Python.
