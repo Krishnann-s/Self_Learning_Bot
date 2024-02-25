@@ -44,11 +44,6 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 python app.py 
 ```
 ## Dependencies
-* __TensorFlow__: Used for building and training machine learning and deep learning models.  
-   - Installation: 
-    ``` python
-    pip install tensorflow
-    ```
 * __Flask__: Web framework used for developing the ChatBot's backend API.  
    - Installation: 
     ``` python
