@@ -44,22 +44,22 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 python app.py 
 ```
 ## Dependencies
-* __TensorFlow__: Used for building and training machine learning and deep learning models.
-Installation: 
-``` python
-pip install tensorflow
-```
-* __Flask__: Web framework used for developing the ChatBot's backend API.
-Installation: 
-``` python
-pip install flask
-```
+* __TensorFlow__: Used for building and training machine learning and deep learning models.  
+   - Installation: 
+    ``` python
+    pip install tensorflow
+    ```
+* __Flask__: Web framework used for developing the ChatBot's backend API.  
+   - Installation: 
+    ``` python
+    pip install flask
+    ```
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
-Installation: 
-``` python
-pip install sqlalchemy
-```
-* __duckduckgo_search__: Python module used for performing web searches using the DuckDuckGo search engine.
+    - Installation: 
+    ``` python
+    pip install sqlalchemy
+    ```
+* __duckduckgo_search__: used for performing web searches using the DuckDuckGo search engine.
   - Installation: 
   ``` python
   pip install duckduckgo_search
