@@ -40,13 +40,15 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 1. Clone this Repo and change directory to medicbot.
 2. Install all the dependencies
 3. Run app.py file: 
-``` python 
-function test:
-print(python app.py) 
+``` python
+python app.py 
 ```
 ## Dependencies
 * __TensorFlow__: Used for building and training machine learning and deep learning models.
-Installation: ```pip install tensorflow```
+Installation: 
+``` python
+pip install tensorflow
+```
 * __Flask__: Web framework used for developing the ChatBot's backend API.
 Installation: ```pip install flask```
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
