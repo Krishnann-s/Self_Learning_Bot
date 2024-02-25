@@ -4,6 +4,7 @@ This project aims to develop a ChatBot specialized in the medical domain to assi
 
 ![Home Page](home.jpg "Home Page")
 ![Login Page](login.jpg "Login Page")
+![Register Page](register.jpg)
 
 ## Methodologies
 1. Data Collection and Preparation
@@ -36,15 +37,17 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 - Users receive a link to the nearest hospital, enabling them to access essential medical assistance promptly.
 - Feel free to adjust the wording or add more details as needed.
 ## Usage
-Provide instructions on how to interact with the ChatBot.
-Include code snippets or examples demonstrating usage.
+1. Clone this Repo and change directory to medicbot.
+2. Install all the dependencies
 ## Dependencies
 * __TensorFlow__: Used for building and training machine learning and deep learning models.
-Installation: '''pip install tensorflow'''
+Installation: ```pip install tensorflow```
 * __Flask__: Web framework used for developing the ChatBot's backend API.
-Installation: '''pip install flask'''
+Installation: ```pip install flask```
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
-Installation: '''pip install sqlalchemy'''
+Installation: ```pip install sqlalchemy```
+* __duckduckgo_search__: Python module used for performing web searches using the DuckDuckGo search engine.
+  - Installation: ```pip install duckduckgo_search```
 
 ![chatbot](result0.jpg "ChatBot Response")
 ![response](result1.jpg)
