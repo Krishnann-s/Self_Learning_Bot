@@ -2,7 +2,8 @@
 ## Overview
 This project aims to develop a ChatBot specialized in the medical domain to assist users in identifying diseases based on symptoms, providing information about symptoms for specific diseases, and offering details about the nearest hospitals for a particular disease.
 
-![Home Page](home.jpg)
+![Home Page](home.jpg "Home Page")
+![Login Page](login.jpg "Login Page")
 
 ## Methodologies
 1. Data Collection and Preparation
@@ -43,6 +44,9 @@ Installation: '''pip install tensorflow'''
 * __Flask__: Web framework used for developing the ChatBot's backend API.
 Installation: '''pip install flask'''
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
-Installation: '''pip install sqlalchemy''' 
+Installation: '''pip install sqlalchemy'''
+
+![chatbot](result0.jpg "ChatBot Response")
+![response](result1.jpg)
 ## Support
 If you encounter any issues or have questions about the Self Learning Chatbot Project, please feel free to [create an issue](https://github.com/Krishnann-s/Self_Learning_Bot/issues).
