@@ -50,11 +50,20 @@ Installation:
 pip install tensorflow
 ```
 * __Flask__: Web framework used for developing the ChatBot's backend API.
-Installation: ```pip install flask```
+Installation: 
+``` python
+pip install flask
+```
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
-Installation: ```pip install sqlalchemy```
+Installation: 
+``` python
+pip install sqlalchemy
+```
 * __duckduckgo_search__: Python module used for performing web searches using the DuckDuckGo search engine.
-  - Installation: ```pip install duckduckgo_search```
+  - Installation: 
+  ``` python
+  pip install duckduckgo_search
+  ```
 
 ![chatbot](result0.jpg "ChatBot Response")
 ![response](result1.jpg)
