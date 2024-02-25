@@ -49,6 +49,41 @@ python app.py
     ``` python
     pip install flask
     ```
+* __Flask-SQLAlchemy__: Extension for Flask that adds support for SQLAlchemy, a Python SQL toolkit and Object-Relational Mapper (ORM).
+  - Installation: 
+  ``` python
+  pip install flask_sqlalchemy
+  ```
+- __Jinja2__: Template engine for Python used in Flask for rendering HTML templates.
+  - Installation: 
+  ``` python
+  pip install jinja2
+  ```
+  
+- **numpy**: Library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+  - Installation: 
+  ```python
+  pip install  numpy
+  ```
+  
+- **Pillow**: Python Imaging Library adds image processing capabilities to your Python interpreter.
+  - Version 8.2.0
+  - Installation: 
+  ```python
+  pip install pillow
+  ```
+  
+- **requests**: HTTP library for Python, allowing you to send HTTP requests easily.
+  - Installation: 
+  ```
+  pip install --user requests==2.25.1
+  ```
+  
+- **Werkzeug**: A comprehensive WSGI web application library for Python.
+  - Installation: 
+  ```
+  pip install werkzeug
+  ```
 * __SQLAlchemy__: Python SQL toolkit and Object-Relational Mapper (ORM) used for database interactions.
     - Installation: 
     ``` python
@@ -57,7 +92,7 @@ python app.py
 * __duckduckgo_search__: used for performing web searches using the DuckDuckGo search engine.
   - Installation: 
   ``` python
-  pip install duckduckgo_search
+  pip install duckduckgo_search==3.5
   ```
 
 ![chatbot](result0.jpg "ChatBot Response")
