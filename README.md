@@ -39,6 +39,11 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 ## Usage
 1. Clone this Repo and change directory to medicbot.
 2. Install all the dependencies
+3. Run app.py file: 
+``` python 
+function test:
+print(python app.py) 
+```
 ## Dependencies
 * __TensorFlow__: Used for building and training machine learning and deep learning models.
 Installation: ```pip install tensorflow```
