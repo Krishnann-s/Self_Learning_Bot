@@ -2,7 +2,7 @@
 ## Overview
 This project aims to develop a ChatBot specialized in the medical domain to assist users in identifying diseases based on symptoms, providing information about symptoms for specific diseases, and offering details about the nearest hospitals for a particular disease.
 
-![Home Page]("E:\self_learning\Self_Learning_Bot\home.jpg")
+![Home Page](home.jpg)
 
 ## Methodologies
 1. Data Collection and Preparation
