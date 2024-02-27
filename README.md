@@ -100,7 +100,7 @@ python app.py
 If you encounter any issues or have questions about the Self Learning Chatbot Project, please feel free to [create an issue](https://github.com/Krishnann-s/Self_Learning_Bot/issues).
 
 ## Contributors
-[Krishnan](https://github.com/Krishnann-s)
-[Rihan Anwar C A](https://github.com/Rihan312)
-[Mohammed Imthihyaz](https://github.com/Mohammed-Imthihyaz)
-[Ambrish Kumar S](https://github.com/Ambrish9535)
+[Krishnan](https://github.com/Krishnann-s)  
+[Rihan Anwar C A](https://github.com/Rihan312)  
+[Mohammed Imthihyaz](https://github.com/Mohammed-Imthihyaz)  
+[Ambrish Kumar S](https://github.com/Ambrish9535)  
