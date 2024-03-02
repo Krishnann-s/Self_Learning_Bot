@@ -2,9 +2,9 @@
 ## Overview
 This project aims to develop a ChatBot specialized in the medical domain to assist users in identifying diseases based on symptoms, providing information about symptoms for specific diseases, and offering details about the nearest hospitals for a particular disease.
 
-![Home Page](home.jpg "Home Page")
-![Login Page](login.jpg "Login Page")
-![Register Page](register.jpg)
+![Home Page](Images/home.jpg "Home Page")
+![Login Page](Images/login.jpg "Login Page")
+![Register Page](Images/register.jpg)
 
 ## Methodologies
 1. Data Collection and Preparation
@@ -100,7 +100,7 @@ python app.py
   ```
 
 ![chatbot](Images/result0.jpg "ChatBot Response")
-![response](result1.jpg)
+![response](Images/result1.jpg)
 ## Support
 If you encounter any issues or have questions about the Self Learning Chatbot Project, please feel free to [create an issue](https://github.com/Krishnann-s/Self_Learning_Bot/issues).
 
