@@ -294,7 +294,7 @@ def chat_msg():
         currentState = userSession.get(sessionId)
 
         if currentState ==-1:
-            response.append("Hi "+user_message+", To predict your disease based on symptopms, we need some information about you. Please provide accordingly.")
+            response.append("Hi "+user_message+", To predict your disease based on symptopms, we need some information about you. Can you Please provide accordingly?")
             userSession[sessionId] = userSession.get(sessionId) +1
             all_result['name'] = user_message            
 
