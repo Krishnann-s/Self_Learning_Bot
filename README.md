@@ -99,7 +99,7 @@ python app.py
   pip install duckduckgo_search==3.5
   ```
 
-![chatbot](result0.jpg "ChatBot Response")
+![chatbot](Self_Learning_Bot\ResultImg\result0.jpg "ChatBot Response")
 ![response](result1.jpg)
 ## Support
 If you encounter any issues or have questions about the Self Learning Chatbot Project, please feel free to [create an issue](https://github.com/Krishnann-s/Self_Learning_Bot/issues).
