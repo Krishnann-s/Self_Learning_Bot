@@ -44,6 +44,11 @@ Discuss evaluation metrics and methodologies used to assess the ChatBot's effect
 python app.py 
 ```
 ## Dependencies
+* __Install the Requirements.txt__: navigate to medicbot directory by cd Self_Learning_Bot/medibot and then run this command below:
+  ``` python
+  pip install -r requirements.txt
+  ```
+
 * __Flask__: Web framework used for developing the ChatBot's backend API.  
    - Installation: 
     ``` python
