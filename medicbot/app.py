@@ -268,11 +268,19 @@ def get_symtoms(user_disease):
         return True,symptoms
 
 
+
+import requests
 from duckduckgo_search import ddg
 
 def getDiseaseInfo(keywords):
-    results = ddg(keywords, region='wt-wt', safesearch='Off', time='y')
-    return results[0]['body']
+    try:
+        results = ddg(keywords, region='wt-wt', safesearch='Off', time='y')
+        return results[0]['body']
+    except requests.exceptions.HTTPError as e:
+        # Handle the HTTP error
+        print("HTTP Error:", e)
+        return ""
+
 
 
 @app.route('/ask',methods=['GET','POST'])
